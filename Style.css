@@ -1,0 +1,112 @@
+.banner {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	height: 300px;
+	display: block;
+}
+body {
+	background-image: url('Image/Background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	justify-content: center;
+	display: block;
+}
+h1 {
+	font-size: 70px;
+	font-family: font-family: Georgia, serif;
+	-webkit-text-stroke:1px gold;
+}
+h2 {
+	font-size: 50px;
+	font-family: font-family: Georgia, serif;
+	background-color:#022337;
+	border-style: solid;
+	border-width: 3px;
+	border-color: gold;
+	margin: 0px;
+	padding-left: 10px;
+	overflow: auto;
+	color: white;
+	-webkit-text-stroke:1px black;
+	width: 100%;
+}
+.heading1 {
+	text-decoration: underline;
+	text-decoration-color: gold;
+}
+.marquee {
+	background-color:#022337;
+	display: block;
+	margin: 0px;
+	width: 100%;
+	padding: auto;
+	overflow: auto;
+	font-size: 40px;
+	color: white;
+	font-family: sans-serif;
+	border-style: solid;
+	border-width: 3px;
+	border-color: gold;
+}
+  p {
+	color: white;
+	font-family: sans-serif;
+	font-size: 25px;
+	padding: auto;
+}
+img {
+	object-fit: fixed;
+	flex: 1;
+	height: 300px;
+	margin-left:15px;
+		align-items: center;
+}
+ .image {
+	 width: 32%;
+border-style: solid;
+	border-width: 10px;
+	border-color: gold;
+	float: left;
+	}
+	* {
+		box-sizing: border-box;
+	}
+	.head1 {
+		margin-top:300px;
+	}
+	footer {
+		justify-content: center;
+	display: block;
+	}
+	.foot {
+		background-color: #022337;
+		margin-top:350px;
+		display: block;
+		width: 100%;
+		height: 100%;
+	}
+	.Contact {
+		font-family: Reddit-Sans, sans-serif;
+		font-size: 40px;
+		padding-left: 20px;
+		padding-top: 10px;
+	}
+	.decimal {
+		font-family: Reddit-Sans, sans-serif;
+		font-size: 40px;
+		padding-left: 20px;
+	}
+    .C {
+		font-family: Reddit-Sans, sans-serif;
+		font-size: 20px;
+		padding-left: 10px;
+	}
+	.Address {
+		font-family: Reddit-Sans, sans-serif;
+		font-size: 20px;
+		padding-left: 10px;
+		padding-bottom: 10px;
+	}
+		
